@@ -1,13 +1,14 @@
+# 🍜 Case Study #1: Danny's Diner
 ---
 
 ## 📚 **Table of Contents**
 
-1. [Introduction](https://www.notion.so/Case-Study-1-Danny-s-Diner-15143335f9008068a4bcef5d67e3ed43?pvs=21)
-2. [Problem Statement](https://www.notion.so/Case-Study-1-Danny-s-Diner-15143335f9008068a4bcef5d67e3ed43?pvs=21)
-3. [Data Overview & Entity Relationship Diagram](https://www.notion.so/Case-Study-1-Danny-s-Diner-15143335f9008068a4bcef5d67e3ed43?pvs=21)
-4. [Case Study Questions & Analysis](https://www.notion.so/Case-Study-1-Danny-s-Diner-15143335f9008068a4bcef5d67e3ed43?pvs=21)
-5. [Tools Used](https://www.notion.so/Case-Study-1-Danny-s-Diner-15143335f9008068a4bcef5d67e3ed43?pvs=21)
-6. [Additional Links](https://www.notion.so/Case-Study-1-Danny-s-Diner-15143335f9008068a4bcef5d67e3ed43?pvs=21)
+1. Introduction
+2. Problem Statement
+3. Data Overview & Entity Relationship Diagram
+4. Case Study Questions & Analysis
+5. Tools Used
+6. Additional Links
 
 ---
 
