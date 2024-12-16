@@ -42,7 +42,7 @@ By understanding customer behavior, Danny aims to decide on expanding the custom
 
 **Entity Relationship Diagram**: Illustrates the relationships between sales, menu, and membership data. The diagram shows the linkages between `customer_id` and `product_id` among these tables, forming the backbone for my analysis.
 
-![Screenshot 2024-12-09 at 1.44.07 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/442256f2-f131-4134-96ce-2023d4ad1d32/f75c46da-7438-4aef-82cc-9c0c2ecc2c41/Screenshot_2024-12-09_at_1.44.07_PM.png)
+![Entity Relationship Diagram](Entity_Relationship_Diagram.png)
 
 ---
 
